@@ -17,6 +17,7 @@ Indications vs. Drug Usage: Mapping of medical conditions to prescribed drugs.
 Technologies Used:
 Power BI – For data visualization and dashboard creation
 DAX (Data Analysis Expressions) – Used for calculated measures and custom aggregations
+Power Query – For data transformation, removing null values, and error handling
 
 
 Use Cases:
